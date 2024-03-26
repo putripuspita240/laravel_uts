@@ -379,11 +379,11 @@ Endpoint ini digunakan untuk update address.
     "postal_code": "61253"
   }
 
-## D. Delete Addresses
+## D. Delete Address
 
 ### `PATCH /api/contacts/1/addresses/1`
 
-Endpoint ini digunakan untuk delete user.
+Endpoint ini digunakan untuk delete address.
 
 #### Request
 
